@@ -1,0 +1,3 @@
+package ffiglet
+
+modules = Ffiglet, Ffiglet.FFI, Ffiglet.Any
